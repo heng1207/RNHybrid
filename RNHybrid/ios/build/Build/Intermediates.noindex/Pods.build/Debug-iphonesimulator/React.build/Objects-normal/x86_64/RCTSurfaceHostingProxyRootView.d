@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Users/zhangheng/Desktop/RNHybrid/ios/Pods/Target\ Support\ Files/React/React-prefix.pch \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Views/RCTView.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/zhangheng/Desktop/RNHybrid/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/zhangheng/Desktop/RNHybrid/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/zhangheng/Desktop/RNHybrid/ios/Pods/Headers/Private/yoga/YGMacros.h

@@ -1,0 +1,24 @@
+# target的名字一般与你的项目名字相同 rn版本0.578
+target 'NativeForIos' do
+
+pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga' 
+pod 'React', :path => '../node_modules/react-native', :subspecs => [
+
+   'Core',
+   'RCTText',
+   'RCTWebSocket', # needed for localhost testing of your app
+   'RCTNetwork',
+   'RCTWebSocket',
+   'DevSupport',
+   'CxxBridge', # 如果RN版本 >= 0.47则加入此行
+   'RCTAnimation', # FlatList和原生动画功能需要此模块
+   
+  ]
+
+  # 如果RN版本 >= 0.45则加入下面三个第三方编译依赖
+  pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
+  pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/GLog.podspec'
+  pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
+  
+  
+end
